@@ -1,0 +1,40 @@
+.main-container {
+  text-align: center;
+  padding: 2rem;
+}
+h1 {
+  font-size: 2.5rem;
+  margin-bottom: 1.5rem;
+  color: #2c3e50;
+}
+.container {
+
+  display: flex;
+  justify-content: space-around;
+margin: 1rem 20rem;
+
+
+}
+.player {
+  background: rgb(240, 207, 207);
+  padding: 2rem;
+  border-radius: 1rem;
+}
+.action svg {
+  color: #8f4b8c;
+
+}
+.round-btn {
+  background: #3498db;
+  border: none;
+  border-radius: 50%;
+  padding: 1rem;
+  margin: 1rem 5rem;
+  cursor: pointer;
+  color: #8f4b8c;
+}
+h2 {
+  margin-top: 2rem;
+  font-size: 1.75rem;
+  
+}
