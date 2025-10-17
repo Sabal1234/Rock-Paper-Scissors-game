@@ -62,7 +62,7 @@ function ShowWinner({ winner }) {
      message = "It's a Tie!";
   }
   else if (winner === "player") {
-     message = "You lose";
+     message = "You win";
   }
   else {
     message = "You Lose!";
