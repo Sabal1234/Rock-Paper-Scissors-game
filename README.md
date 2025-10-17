@@ -1,2 +1,2 @@
 # Output
-![Output](./src/assets/Screenshot.png)
+![Output](./src/assets/ss.png)
